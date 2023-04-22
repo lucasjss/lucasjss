@@ -1,4 +1,4 @@
-# olá, eu sou Lucas, pode me chamar de Paco
+# oi, eu sou Lucas.
 #### Curso Informática pelo IFRS, tenho foco no Front-End, sempre buscando aperfeiçoamento.
     
 ### Linguagens estudadas:    
