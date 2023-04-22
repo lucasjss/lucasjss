@@ -1,4 +1,4 @@
-# oi, eu sou Lucas.
+# Oi, eu sou Lucas.
 #### Curso Informática pelo IFRS, tenho foco no Front-End, sempre buscando aperfeiçoamento.
     
 ### Linguagens estudadas:    
