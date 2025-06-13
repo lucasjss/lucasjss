@@ -1,5 +1,5 @@
 # Oi, eu sou Lucas.
-#### Técnico em Informática pelo IFRS - Campus Farroupilha.
+#### Técnico em Informática pelo IFRS - Campus Farroupilha e agora estudante de Ciência da Computação pela FSG.
     
 ### Linguagens estudadas:    
 <div style="display: inline_block"><br>
