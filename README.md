@@ -10,6 +10,7 @@ Sou um entusiasta da tecnologia com uma base sólida em Suporte e Infraestrutura
 No meu dia a dia, trabalho diretamente com o gerenciamento de ambientes Windows Server, suporte a sistemas ERP e resolução de problemas complexos de infraestrutura. Sou movido pela curiosidade e proatividade, o que me leva a explorar o desenvolvimento de software como forma de criar soluções.
 
 <h2>Tecnologias</h2>
+Algumas tecnologias não domino ou estou aprendendo, mas todas estiveram e estão presentes em minha caminhada.
 
     
           
